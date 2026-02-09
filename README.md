@@ -1,6 +1,6 @@
 # Hello, I'm Jeremy Wiersema
 
-This is my personal project repository where I will be uploading projects I work on both in and out of class.
+This is my personal project repository where I have my website to link my projects I work on both in and out of class.
 I’m focused on developing strong foundations in software engineering, backend systems, and application development.  
 I enjoy solving problems, debugging complex issues, and building projects that turn ideas into working systems.
 
